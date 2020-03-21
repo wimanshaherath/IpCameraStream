@@ -1,0 +1,15 @@
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\Ipcamera.exe.config
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\Ipcamera.exe
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\Ipcamera.pdb
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\AForge.dll
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\AForge.Video.dll
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\AForge.xml
+E:\My Objects\C#\Ipcamera\Ipcamera\bin\Debug\AForge.Video.xml
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.csprojAssemblyReference.cache
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.Form1.resources
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.Properties.Resources.resources
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.csproj.GenerateResource.cache
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.csproj.CoreCompileInputs.cache
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.csproj.CopyComplete
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.exe
+E:\My Objects\C#\Ipcamera\Ipcamera\obj\Debug\Ipcamera.pdb
